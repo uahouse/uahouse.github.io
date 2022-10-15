@@ -95,7 +95,7 @@ body {
 
 .navigazione {
     width: calc(100% - 1065px);
-    padding: 60px;
+    padding: 60px 0px 0px 45px;
 }
 
 
